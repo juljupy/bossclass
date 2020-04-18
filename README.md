@@ -1,2 +1,0 @@
-# bossclass
-Created with CodeSandbox
